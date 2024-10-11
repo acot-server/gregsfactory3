@@ -1,0 +1,13 @@
+name = "Gregsfactory 3"
+author = "Annwan, LunaFreyja, PhoenixAscencio"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "99a402d85b530f9b5efd08767097b9a3d3ddd64c8c9db38400a0a474fb43e83b"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"
