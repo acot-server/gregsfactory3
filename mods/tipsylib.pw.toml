@@ -1,0 +1,13 @@
+name = "TipsyLib"
+filename = "TipsyLib-forge-1.20.1-2.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b904e9e70fb61adeb7bfe4687dc324dd49a0086b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5704675
+project-id = 880879

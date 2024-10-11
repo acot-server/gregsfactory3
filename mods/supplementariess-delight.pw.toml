@@ -1,0 +1,13 @@
+name = "Supplementaries's Delight"
+filename = "supplementariesdelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f1c42dcd43e3dd0588c35ee14e4fd53d8c1e12f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5765563
+project-id = 1108499

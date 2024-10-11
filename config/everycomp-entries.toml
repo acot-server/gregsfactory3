@@ -1,0 +1,247 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.leaves_type]
+
+		[types.leaves_type.regions_unexplored]
+			bamboo = true
+			golden_larch = true
+			alpha = true
+			apple_oak = true
+			baobab = true
+			blackwood = true
+			magnolia = true
+			cypress = true
+			dead = true
+			dead_pine = true
+			eucalyptus = true
+			flowering = true
+			kapok = true
+			larch = true
+			maple = true
+			mauve = true
+			orange_maple = true
+			palm = true
+			pine = true
+			blue_magnolia = true
+			pink_magnolia = true
+			redwood = true
+			red_maple = true
+			brimwood = true
+			enchanted_birch = true
+			small_oak = true
+			silver_birch = true
+			socotra = true
+			white_magnolia = true
+			willow = true
+			ashen = true
+
+		[types.leaves_type.bloomingnature]
+			larch = true
+			baobab = true
+			orange = true
+			swamp_oak = true
+			aspen = true
+			fan_palm = true
+			swamp_cypress = true
+			ebony = true
+			chestnut = true
+
+		[types.leaves_type.outer_end]
+			azure = true
+
+		[types.leaves_type.integrateddynamics]
+			menril = true
+
+		[types.leaves_type.ad_astra]
+			glacian = true
+
+		[types.leaves_type.gtceu]
+			rubber = true
+
+	[types.stone_type]
+
+		[types.stone_type.galosphere]
+			pink_salt = true
+			rose_pink_salt = true
+			pastel_pink_salt = true
+
+		[types.stone_type.supplementaries]
+			ash = true
+
+		[types.stone_type.botania]
+			livingrock = true
+
+		[types.stone_type.bloomingnature]
+			travertin = true
+			mossy_travertin = true
+			laterit = true
+			mossy_laterit = true
+			slate = true
+			mossy_slate = true
+
+		[types.stone_type.outer_end]
+			violite = true
+
+		[types.stone_type.regions_unexplored]
+			chalk = true
+
+		[types.stone_type.create]
+			cut_granite = true
+			cut_diorite = true
+			cut_andesite = true
+			cut_calcite = true
+			cut_dripstone = true
+			cut_deepslate = true
+			cut_tuff = true
+			cut_asurine = true
+			cut_crimsite = true
+			cut_limestone = true
+			cut_ochrum = true
+			cut_scoria = true
+			cut_scorchia = true
+			cut_veridium = true
+
+		[types.stone_type.ad_astra]
+			moon_stone = true
+			mars_stone = true
+			mercury_stone = true
+			venus_stone = true
+			venus_sandstone = true
+			glacio_stone = true
+			permafrost = true
+
+		[types.stone_type.gtceu]
+			coke_oven = true
+			red_granite = true
+			marble = true
+			light_concrete = true
+			dark_concrete = true
+
+	[types.wood_type]
+
+		[types.wood_type.domum_ornamentum]
+			cactus = true
+			cactus_extra = true
+
+		[types.wood_type.botania]
+			livingwood = true
+			dreamwood = true
+
+		[types.wood_type.cataclysm]
+			chorus = true
+
+		[types.wood_type.bloomingnature]
+			larch = true
+			baobab = true
+			swamp_oak = true
+			aspen = true
+			fan_palm = true
+			fir = true
+			swamp_cypress = true
+			ebony = true
+			chestnut = true
+
+		[types.wood_type.outer_end]
+			azure = true
+
+		[types.wood_type.regions_unexplored]
+			alpha = true
+			baobab = true
+			blackwood = true
+			blue_bioshroom = true
+			brimwood = true
+			cobalt = true
+			cypress = true
+			dead = true
+			eucalyptus = true
+			green_bioshroom = true
+			joshua = true
+			kapok = true
+			larch = true
+			magnolia = true
+			maple = true
+			mauve = true
+			palm = true
+			pine = true
+			pink_bioshroom = true
+			redwood = true
+			socotra = true
+			willow = true
+			yellow_bioshroom = true
+
+		[types.wood_type.integrateddynamics]
+			menril = true
+
+		[types.wood_type.betterarcheology]
+			rotten = true
+
+		[types.wood_type.ad_astra]
+			aeronos = true
+			strophar = true
+			glacian = true
+
+		[types.wood_type.gtceu]
+			rubber = true
+
+	[types.cake]
+
+		[types.cake.farmersrespite]
+			coffee_cake = true
+
+#Disables specific entries
+[entries]
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.regions_unexplored]
+			shrub = true
+
+		[entries.leaves_type.buildersaddition]
+			hedge = true
+
+	[entries.wood_type]
+
+		[entries.wood_type.villagersplus]
+			horticulturist_table = true
+
+		[entries.wood_type.buildersaddition]
+			counter_blackstone = true
+			bedside_table = true
+			bookshelf = true
+			small_cupboard = true
+			counter_diorite = true
+			shelf = true
+			cupboard = true
+			vertical_slab = true
+			arcade = true
+			counter_deepslate = true
+			bench = true
+			chair = true
+			counter_andesite = true
+			table = true
+			support_bracket = true
+			cabinet = true
+			counter_granite = true
+			stool = true
+
+		[entries.wood_type.functionalstorage]
+			1 = false
+			4 = false
+			2 = false
+
+		[entries.wood_type.create]
+			window = true
+			window_pane = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.regions_unexplored]
+			branch = true
+
+		[entries.wood_type.dramaticdoors]
+			short_door = true
+			tall_door = true
+

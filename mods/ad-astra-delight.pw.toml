@@ -1,0 +1,13 @@
+name = "Ad Astra Delight"
+filename = "ad-astra-delight-1.0.2.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf631b4405a9ce8e5d29eaa32f92a3206a83e907"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5723342
+project-id = 1075745

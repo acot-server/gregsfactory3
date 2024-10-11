@@ -1,0 +1,13 @@
+name = "Temporal API"
+filename = "temporalapi-1.6.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad7e62754b33f930ecc4270475fe3b9b78eb70e3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5509183
+project-id = 970291

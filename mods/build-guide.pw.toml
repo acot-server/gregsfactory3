@@ -1,0 +1,18 @@
+name = "Build Guide"
+filename = "BuildGuide-1.20-0.4.3.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "0f74d16e0e54e47ac31f6e53e4b0a5b280455cef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5687152
+project-id = 465690
+
+[option]
+optional = true
+default = true
+description = "Project build guides to construct complex shapes without having to do all the maths"

@@ -1,0 +1,18 @@
+name = "Immersive UI"
+filename = "ImmersiveUI-FORGE-0.2.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ca4141cee102cac8b1a600d0af6e2f5bb2bdad3f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5655933
+project-id = 1021685
+
+[option]
+optional = true
+default = false
+description = "Inventory UI animations"

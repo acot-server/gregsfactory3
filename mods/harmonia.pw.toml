@@ -1,0 +1,18 @@
+name = "Harmonia"
+filename = "Harmonia-forge-1.2.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "3ff115ed4f4a07a01c0afacb94d4b05b835d7848"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5436583
+project-id = 1001446
+
+[option]
+optional = true
+default = true
+description = "Xaero’s minimap compat with Cadmus\nDO NOT USE WITHOUT XAERO’S MINIMAP"
