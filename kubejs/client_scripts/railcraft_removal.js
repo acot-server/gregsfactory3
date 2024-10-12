@@ -1,0 +1,6 @@
+REIEvents.hide('item', event => {event.hide('railcraft:world_spike')})
+REIEvents.hide('item', event => {event.hide('railcraft:personal_world_spike')})
+REIEvents.hide('item', event => {event.hide('railcraft:world_spike_minecart')})
+REIEvents.hide('item', event => {event.hide('railcraft:manual_rolling_machine')})
+REIEvents.hide('item', event => {event.hide('railcraft:powered_rolling_machine')})
+REIEvents.hide('item', event => {event.hide('railcraft:steam_oven')})
