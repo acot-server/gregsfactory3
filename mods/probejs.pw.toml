@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5227399
 project-id = 585406
+
+[option]
+optional = true
+default = false
+description = "Useful for mocpack developers, DO NOT USE"
