@@ -874,7 +874,7 @@ hash = "fd904f564c9d6d6ed782c977489f2f947c7ba4cee8e31628236adf564ae00372"
 
 [[files]]
 file = "config/ae2/common.json"
-hash = "233050610aa4078bf09a96cb4fc5b4c522d3ce04a66b90f6d47a231b5eca45f6"
+hash = "538c31f236215334de8fc61f6c3cdfdaf52478f4069f2c06b16c501a0faecdee"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
@@ -1073,6 +1073,10 @@ file = "config/regions_unexplored/ru-secondary-region.toml"
 hash = "77d4b1625ba1754bc129bc47a98186ad1869e86737867dac98cabd8621ed916f"
 
 [[files]]
+file = "config/roughlyenoughitems/collapsible.json5"
+hash = "38c1044c027085966ad53a8e4bc533f1968cb36f5e85f0eaabaf40f32a537350"
+
+[[files]]
 file = "config/villagersplus/villagersplus-3.0-config.json5"
 hash = "27b5eb22f5fbd48cfc7592e44d1a7c3fc4cfc5796fe0ec2d8a5735f9db366785"
 
@@ -1083,6 +1087,14 @@ hash = "5a1e69acdaa16ff00b3e618323d9379cf109756790575e36bcd7af702f9e90a6"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "8a30534d427d7b5d9ff714d0b0365d9490dd9c8f234ad81b591096b983f890c3"
+
+[[files]]
+file = "kubejs/client_scripts/railcraft_removal.js"
+hash = "662f08c832eec4476d481e43d5916b4a5309c002313eace2723a2a17842aa554"
+
+[[files]]
+file = "kubejs/server_scripts/railcraft_removal.js"
+hash = "e01b6eae27f359f8dc99f31458544c2dcbfab8800da9aa1044c89d5aaa77de4e"
 
 [[files]]
 file = "mods/ad-astra-delight.pw.toml"
@@ -1821,7 +1833,7 @@ metafile = true
 
 [[files]]
 file = "mods/probejs.pw.toml"
-hash = "d03e98ed76ab8447d2a081fda4bd46da02543490133931a5ca8f314e7342e756"
+hash = "a124be416570c34bb6e9eefa958e2f70dda9f59e62f9a15be60f63fe0047ab24"
 metafile = true
 
 [[files]]
