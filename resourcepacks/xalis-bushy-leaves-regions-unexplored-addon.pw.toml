@@ -1,0 +1,13 @@
+name = "Xali's Bushy Leaves - Regions Unexplored Addon"
+filename = "Xali's Bushy Leaves RU Addon v1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5780c3a05fa8029bbb73d9c5ab6ffa26be84049d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5733456
+project-id = 1014673
