@@ -1421,12 +1421,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4008044d6dbd1f1955f835c0df98673851a788731861cdd65676d86350f88531"
+hash = "4c1ee2a840aecc5d7d5ec0b7d9d39d56206a5cf5c8ac99b3a9f09a83b42aa33c"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "b95281ece6f23d91a71df98b3cb7a84ba0b729d49d74df4062a20687b2cdfbed"
+hash = "1f097e273301601fa80e4de64b4d2776533d9c92d93f1555b778effe9007243e"
 metafile = true
 
 [[files]]
@@ -1561,7 +1561,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "891d9f74c6b4efb41a0f0d0d5a97e881ca24ba275627a9f9bb165fb61a729017"
+hash = "ffbab12b4b270e629b497d859fad369a92f30cb8ac14fb48cbb9b4cc793a0f87"
 metafile = true
 
 [[files]]
