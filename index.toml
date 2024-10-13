@@ -1089,11 +1089,19 @@ file = "config/waystones-common.toml"
 hash = "cc007ea560a0804f45651a8f727dec3e0bdea5f7625ea64b8da357b4f62ea506"
 
 [[files]]
-file = "kubejs/client_scripts/railcraft_removal.js"
+file = "kubejs/client_scripts/removals/ad_astra.js"
+hash = "b260d4be5282cc1e78c4607e16a3eefa038fb2969c78f5b30f5eef6d7ba955c4"
+
+[[files]]
+file = "kubejs/client_scripts/removals/railcraft.js"
 hash = "2a761ac848a2013c344fedd9c0eb4f8a52244cad18530a5580d6118166cb5262"
 
 [[files]]
-file = "kubejs/server_scripts/railcraft_removal.js"
+file = "kubejs/server_scripts/removals/ad_astra.js"
+hash = "9cedd3595329d570575d531f6fbf5ef8271a80755647030350a0dd1597fddfea"
+
+[[files]]
+file = "kubejs/server_scripts/removals/railcraft.js"
 hash = "0c8b3a83be3f2c636098479909d30fe07e34177d2672452a299ff3a13e94c73b"
 
 [[files]]
