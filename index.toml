@@ -1097,6 +1097,10 @@ file = "kubejs/client_scripts/removals/railcraft.js"
 hash = "2a761ac848a2013c344fedd9c0eb4f8a52244cad18530a5580d6118166cb5262"
 
 [[files]]
+file = "kubejs/server_scripts/create.js"
+hash = "43752435cfe12c9c78b51a3c26d2e56519413dc04d8b4abfe3391a610ae59a61"
+
+[[files]]
 file = "kubejs/server_scripts/removals/ad_astra.js"
 hash = "9cedd3595329d570575d531f6fbf5ef8271a80755647030350a0dd1597fddfea"
 
