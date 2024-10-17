@@ -1106,7 +1106,7 @@ hash = "2fb494720741d9c8c04da61aa47d14e5f8b589038e4aaad3e5963e85acf191b8"
 
 [[files]]
 file = "kubejs/server_scripts/AE2/core_network.js"
-hash = "bf4b488ce4a908579a7f04029af5b8351715ad0941d1b4bee4a1c711b15b2f72"
+hash = "e6b6bc19b10dd6202d20477f3d1bfbc4eecb7af9865a2a000eabd558ea2fdcb7"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
@@ -1118,7 +1118,7 @@ hash = "9cedd3595329d570575d531f6fbf5ef8271a80755647030350a0dd1597fddfea"
 
 [[files]]
 file = "kubejs/server_scripts/removals/ae2.js"
-hash = "9e59531abe80ee63e62304aefb0832078426acf39a3b6b4bb416dcbdc691b070"
+hash = "24aa63872f7bb53caf565ff34e8d0e086e7373e84c7c0df56453424a740153c8"
 
 [[files]]
 file = "kubejs/server_scripts/removals/railcraft.js"
