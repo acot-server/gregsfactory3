@@ -91,16 +91,56 @@ ServerEvents.recipes(event => {
         .duration(1200)
         .EUt(GTValues.VA[GTValues.HV])
 
-        event.recipes.gtceu.assembler('me_io_port')
+        event.recipes.gtceu.assembler('me_energy_cell')
         .itemInputs(
-            '64x gtceu:ram_chip',
+            '64x gtceu:smd_capacitor',
             'gtceu:hv_input_bus',
-            '16x gtceu:red_alloy_quadruple_wire'
+            '4x gtceu:energy_crystal'
         )
         .inputFluids(
             Fluid.of('gtceu:soldering_alloy', 144)
         )
-        .itemOutputs('ae2:io_port')
+        .itemOutputs('ae2:energy_cell')
         .duration(1200)
         .EUt(GTValues.VA[GTValues.HV])
+
+        event.recipes.gtceu.assembler('me_dense_energy_cell')
+        .itemInputs(
+            '64x gtceu:smd_capacitor',
+            'ae2:energy_cell',
+            '4x gtceu:lapotron_crystal'
+        )
+        .inputFluids(
+            Fluid.of('gtceu:soldering_alloy', 144)
+        )
+        .itemOutputs('ae2:dense_energy_cell')
+        .duration(1200)
+        .EUt(GTValues.VA[GTValues.EV])
+
+        event.recipes.gtceu.assembler('me_crafing_unit')
+        .itemInputs(
+            '4x gtceu:cpu_chip',
+            'gtceu:mv_machine_hull',
+            '16x gtceu:fine_red_alloy_wire',
+            'sophisticatedbackpacks:crafting_upgrade'
+        )
+        .inputFluids(
+            Fluid.of('gtceu:soldering_alloy', 144)
+        )
+        .itemOutputs('ae2:crafting_unit')
+        .duration(1200)
+        .EUt(GTValues.VA[GTValues.MV])
+
+        event.recipes.gtceu.assembler('me_co_crafing_unit')
+        .itemInputs(
+            '2x gtceu:cpu_chip',
+            'ae2:crafting_unit',
+            '4x gtceu:fine_red_alloy_wire',
+        )
+        .inputFluids(
+            Fluid.of('gtceu:soldering_alloy', 144)
+        )
+        .itemOutputs('ae2:crafting_accelerator')
+        .duration(1200)
+        .EUt(GTValues.VA[GTValues.MV])
 })
