@@ -1106,11 +1106,15 @@ hash = "2fb494720741d9c8c04da61aa47d14e5f8b589038e4aaad3e5963e85acf191b8"
 
 [[files]]
 file = "kubejs/server_scripts/AE2/core_network.js"
-hash = "e6b6bc19b10dd6202d20477f3d1bfbc4eecb7af9865a2a000eabd558ea2fdcb7"
+hash = "91592d74ef65165a7bcba6fbd73db58a2666dc8f19bba2012f6e380f7d9bf6fa"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
 hash = "43752435cfe12c9c78b51a3c26d2e56519413dc04d8b4abfe3391a610ae59a61"
+
+[[files]]
+file = "kubejs/server_scripts/more_geodes_reforged_crushing.js"
+hash = "1dc4962726293298d4ee1c4781ac3a4da571abe8a6fcebfe08815e690989908a"
 
 [[files]]
 file = "kubejs/server_scripts/removals/ad_astra.js"
@@ -1118,7 +1122,7 @@ hash = "9cedd3595329d570575d531f6fbf5ef8271a80755647030350a0dd1597fddfea"
 
 [[files]]
 file = "kubejs/server_scripts/removals/ae2.js"
-hash = "24aa63872f7bb53caf565ff34e8d0e086e7373e84c7c0df56453424a740153c8"
+hash = "0ece1404141f26f6e0e25acc19e1d0d4804ea8308b521f51258316bade6fdf7e"
 
 [[files]]
 file = "kubejs/server_scripts/removals/railcraft.js"
